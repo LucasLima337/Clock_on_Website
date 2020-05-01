@@ -2,7 +2,7 @@
  #### **Objetivo: mostrar o horário da sua máquina com temas diferentes, dependendo do período do dia!**
  #### Acesse esse Site [**clicando aqui**](https://lucaslima337.github.io/Relogio_Em_Site/)
  ---
- Página web construída com as tecnologias seguintes tecnologias:
+ Página web construída com as seguintes tecnologias:
  * HTML
  * CSS
  * JS 
