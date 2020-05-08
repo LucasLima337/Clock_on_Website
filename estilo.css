@@ -36,10 +36,21 @@ footer#fot {
     font: normal 14pt arial;
     font-style: italic;
     color: white;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
 }
 img#tit {
     width: 50px;
     height: 30px;
     margin-left: 10px;
     border-radius: 80px;
+}
+#fot a {
+    text-decoration: none;
+    color: orange;
+    margin-top: 6px;
+}
+#fot a:hover {
+    text-decoration: underline;
 }
