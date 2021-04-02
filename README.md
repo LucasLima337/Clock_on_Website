@@ -1,8 +1,8 @@
-# Relógio em Site :alarm_clock:
- #### **Objetivo: mostrar o horário da sua máquina com temas diferentes, dependendo do período do dia!**
- #### Acesse esse Site [**clicando aqui**](https://lucaslima337.github.io/Relogio_Em_Site/)!
+# Clock on Website :alarm_clock:
+ #### **Objective: show you the time of your PC with different themes, depending on the time of the day!**
+ #### View this site [**here**](https://lucaslima337.github.io/Relogio_Em_Site/)!
  ---
- Página web construída com as seguintes tecnologias:
+ Webpage created with the following technologies:
  * HTML
  * CSS
  * JS 
